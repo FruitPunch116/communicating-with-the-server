@@ -1,0 +1,34 @@
+{
+  "dogs": [
+    {
+      "name": "Snoopy",
+      "breed": "beagle",
+      "owner": "Charlie",
+      "age": 10,
+      "image": "https://www.indiewire.com/wp-content/uploads/2021/02/The_Snoopy_Show_Photo_010101.jpg?w=3000&h=2000&crop=1"
+    },
+    {
+      "id": 2,
+      "name": "Wishbone",
+      "breed": "terrier",
+      "age": 12,
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Soccer_as_Wishbone_Robin_Hood.jpg"
+    },
+    {
+      "name": "Clifford",
+      "breed": "Giant Vizsla",
+      "owner": "Emily",
+      "age": "8",
+      "image": "https://static.wikia.nocookie.net/cancelled-movies/images/7/7a/14-clifford-the-big-red-dog-the-gallery-transparent.png/revision/latest?cb=20230426131503",
+      "id": 3
+    },
+    {
+      "name": "Roger",
+      "breed": "French Bulldog",
+      "owner": "Doug",
+      "age": "2",
+      "image": "https://www.melzanofrenchies.com/wp-content/uploads/2022/03/BrindleFrenchBulldog.jpg",
+      "id": 4
+    }
+  ]
+}
